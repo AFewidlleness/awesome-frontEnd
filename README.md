@@ -27,3 +27,5 @@
 #### js动画
 
 - [anime](https://github.com/juliangarnier/anime) - anime 是一个轻量级的JavaScript动画库。它适用于任何CSS属性，单个CSS转换，SVG或任何DOM属性以及JavaScript对象。
+
+- [velocity](https://github.com/julianshapiro/velocity) - Velocity是一个动画引擎，与jQuery的$.animate（）具有相同的API 。它可以使用和不使用jQuery。它的速度非常快，它具有色彩动画，变换，循环，缓动，SVG支持和滚动功能。它是jQuery和CSS转换相结合的最佳选择。
