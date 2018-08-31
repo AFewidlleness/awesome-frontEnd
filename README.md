@@ -33,3 +33,4 @@
 
 - [three.js](https://github.com/mrdoob/three.js) - three.js 是创建一个易于使用，轻量级的3D库。该库提供Canvas 2D，SVG，CSS3D和WebGL渲染器。
 
+- [vivus](https://github.com/maxwellito/vivus) - vivus 用于在SVG上制作绘图动画的JavaScript库
