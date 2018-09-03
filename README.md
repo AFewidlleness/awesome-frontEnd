@@ -39,4 +39,6 @@
 
 - [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - snabbt.js 是一款轻量级的、功能强大的、简单易用的 jQuery 动画库插件.
 
-- [pace](https://github.com/HubSpot/pace) - pace 网页自动加载进度条插件
+- [pace](https://github.com/HubSpot/pace) - pace 网页自动加载进度条插件.
+
+- [popmotion](https://github.com/Popmotion/popmotion) - Popmotion 是一个只有 12KB 的 JavaScript 运动引擎，可以用来实现动画，物理效果和输入跟踪.
