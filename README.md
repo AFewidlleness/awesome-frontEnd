@@ -38,3 +38,5 @@
 - [vivus](https://github.com/maxwellito/vivus) - vivus 用于在SVG上制作绘图动画的JavaScript库.
 
 - [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - snabbt.js 是一款轻量级的、功能强大的、简单易用的 jQuery 动画库插件.
+
+- [pace](https://github.com/HubSpot/pace) - pace 网页自动加载进度条插件
