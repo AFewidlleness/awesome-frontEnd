@@ -42,3 +42,5 @@
 - [pace](https://github.com/HubSpot/pace) - pace 网页自动加载进度条插件.
 
 - [popmotion](https://github.com/Popmotion/popmotion) - Popmotion 是一个只有 12KB 的 JavaScript 运动引擎，可以用来实现动画，物理效果和输入跟踪.
+
+- [bounce.js](https://github.com/tictail/bounce.js) - Bounce.js 是一个漂亮的关键帧动画生成工具和类库，基于 CSS3 实现.
