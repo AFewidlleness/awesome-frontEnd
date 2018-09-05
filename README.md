@@ -44,3 +44,16 @@
 - [popmotion](https://github.com/Popmotion/popmotion) - Popmotion 是一个只有 12KB 的 JavaScript 运动引擎，可以用来实现动画，物理效果和输入跟踪.
 
 - [bounce.js](https://github.com/tictail/bounce.js) - Bounce.js 是一个漂亮的关键帧动画生成工具和类库，基于 CSS3 实现.
+
+
+### vuejs
+
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 与Vue.js相关的精彩内容的精选列表.
+
+基本上面的仓库就已经收集了很多东西了，大家需要的可以进去找，下面列出的可能是我个人工作或者娱乐项目可能会用到的插件.
+
+---
+
+- [v-viewer](https://github.com/mirari/v-viewer) - 用于vue的图像查看器组件，支持基于viewer.js的旋转，缩放，缩放等.
+
+- [vue-lazyload](https://github.com/hilongjw/vue-lazyload) - 一个Vue.js插件，用于在应用程序中延迟加载图像或组件.
