@@ -54,6 +54,11 @@
 
 ---
 
+- [element](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包.
+
+
+---
+
 - [v-viewer](https://github.com/mirari/v-viewer) - 用于vue的图像查看器组件，支持基于viewer.js的旋转，缩放，缩放等.
 
 - [vue-lazyload](https://github.com/hilongjw/vue-lazyload) - 一个Vue.js插件，用于在应用程序中延迟加载图像或组件.
