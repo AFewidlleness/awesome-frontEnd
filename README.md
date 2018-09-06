@@ -56,6 +56,7 @@
 
 - [element](https://github.com/ElemeFE/element) - 适用于Web的Vue.js 2.0 UI工具包.
 
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)- vue-element-admin是一个前端管理后台集成解决方案。它基于vue并使用UI Toolkit 元素.
 
 ---
 
