@@ -49,6 +49,9 @@
 
 - [mojs](https://github.com/legomushroom/mojs) - 动画的图形库 mo.js.
 
+- [cta.js](https://github.com/chinchang/cta.js) - 一款轻量级 Modal 模态框插件.
+
+- [rocket](https://github.com/miniMAC/rocket) - 当项目移动到另一个元素时，Rocket会创建一个动画.
 
 ### vuejs
 
