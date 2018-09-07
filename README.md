@@ -45,6 +45,10 @@
 
 - [bounce.js](https://github.com/tictail/bounce.js) - Bounce.js 是一个漂亮的关键帧动画生成工具和类库，基于 CSS3 实现.
 
+- [dynamics.js](https://github.com/michaelvillar/dynamics.js) - Dynamics.js 是一款可以创建物理运动动画效果的 js 库插件.
+
+- [mojs](https://github.com/legomushroom/mojs) - 动画的图形库 mo.js.
+
 
 ### vuejs
 
