@@ -53,6 +53,10 @@
 
 - [rocket](https://github.com/miniMAC/rocket) - 当项目移动到另一个元素时，Rocket会创建一个动画.
 
+- [html5tooltipsjs](https://github.com/ytiurin/html5tooltipsjs) - html5tooltips.js 是一个轻量级和简洁的 Tooltips。采用纯 JavaScript 开发，拥有 CSS 动画，不依赖任何框架.
+
+- [scrollreveal](https://github.com/scrollreveal/scrollreveal) - ScrollReveal.js 用于创建和管理元素进入可视区域时的动画效果，帮助你的网站增加吸引力.
+
 ### vuejs
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 与Vue.js相关的精彩内容的精选列表.
