@@ -57,6 +57,8 @@
 
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal) - ScrollReveal.js 用于创建和管理元素进入可视区域时的动画效果，帮助你的网站增加吸引力.
 
+- [WOW](https://github.com/matthieua/WOW) - WOW.js 是一款帮助你实现滚动页面时触发 CSS 动画效果的插件.
+
 ### vuejs
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 与Vue.js相关的精彩内容的精选列表.
