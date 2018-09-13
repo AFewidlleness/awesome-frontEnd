@@ -59,6 +59,8 @@
 
 - [WOW](https://github.com/matthieua/WOW) - WOW.js 是一款帮助你实现滚动页面时触发 CSS 动画效果的插件.
 
+- [transit](https://github.com/rstacruz/jquery.transit) - jQuery的超级流畅的CSS3转换和转换.
+
 ### vuejs
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 与Vue.js相关的精彩内容的精选列表.
