@@ -62,6 +62,12 @@
 - [transit](https://github.com/rstacruz/jquery.transit) - jQuery的超级流畅的CSS3转换和转换的插件.
 
 - [parallax](https://github.com/wagerfield/parallax) - Parallax.js 是一款功能非常强大的 JavaScript 视觉差特效引擎插件。通过这个视觉差插件可以制作出非常炫酷的视觉差特效，可以检测智能设备的方向.
+
+- [CreateJS](https://github.com/CreateJS) - CreateJS 库是一款 HTML5 游戏开发的引擎，是一套可以构建丰富交互体验的 HTML5 游戏的开源工具包.
+
+
+
+
 ### vuejs
 
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 与Vue.js相关的精彩内容的精选列表.
